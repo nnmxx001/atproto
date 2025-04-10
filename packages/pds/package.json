@@ -84,7 +84,7 @@
     "@types/express-serve-static-core": "^4.17.36",
     "@types/nodemailer": "^6.4.6",
     "@types/qs": "^6.9.7",
-    "esbuild": "^0.14.48",
+    "esbuild": "^0.25.0",
     "esbuild-plugin-handlebars": "^1.0.3",
     "get-port": "^6.1.2",
     "jest": "^28.1.2",
